@@ -1,2 +1,2 @@
 # Udacity_IMDB_Movie_Dataset
-A Udacity project of investigating movie dataset with Jupyter Notebook
+A Udacity project of investigating movie dataset with Jupyter Notebook. In this dataset, there are provided information about movie details and informations from movies that are released during 1960-2015. The dataset contained movie details such as title, runtime, cast, genres, etc. and movie rating from imdb in popularity. We will conduct a research about the most popular genre year-to-year from 1960-2015 and the most influential traits (Popularity, Budget and Average Votes) that are associated with the high-revenue movies in this data.
